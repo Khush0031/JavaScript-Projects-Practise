@@ -4,7 +4,7 @@ Welcome to the **JavaScript Projects-Practise**! This README will guide you thro
 
 ## Table of Contents  
 
-- [JavaScript Projects 🚀](#javascript-projects-)
+- [JavaScript Projects-Practise 🚀](#javascript-projects-practise-)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
@@ -70,13 +70,14 @@ JavaScript-Projects-Practise
 
 ## Project Ideas  
 
-| Project Number | Project Name          | Link                                                                                                      |
-|----------------|-----------------------|-----------------------------------------------------------------------------------------------------------|
-| Project-01     | Analog-Clock          | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/01-ANALOG-CLOCK)                 |
-| Project-02     | Digital-Clock         | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/02-DIGITAL-CLOCK)                |
-| Project-03     | Calculator            | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/03-SIMPLE-CALCULATOR)            |  
-| Project-04     | Tic-Tac-Toe           | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/04-TIC-TAC-TOE-GAME)             | 
-| Project-05     | Gradient Generator    | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/05-Gradient-Generator)           |  
+| Project Number | Project Name         | Link                                                                                                     |
+|----------------|----------------------|----------------------------------------------------------------------------------------------------------|
+| Project-01     | Analog-Clock         | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/01-ANALOG-CLOCK)                |
+| Project-02     | Digital-Clock        | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/02-DIGITAL-CLOCK)               |
+| Project-03     | Calculator           | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/03-SIMPLE-CALCULATOR)           |  
+| Project-04     | Tic-Tac-Toe          | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/04-TIC-TAC-TOE-GAME)            | 
+| Project-05     | Gradient Generator   | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/05-Gradient-Generator)          |  
+| Project-06     | Todo-App             | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/06-Todo-App)                    |
 
 ## Resources
 

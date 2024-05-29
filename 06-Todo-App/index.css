@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    border: 1px solid red;
+    color: aliceblue;
+    background-color: #232323;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+border: 1px solid wheat;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 0 10px;
+text-align: center;
+width: max-content;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.input-container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#todo-input {
+    flex: 1;
+    padding: 10px;
+    border: 1 px solid #ccc;
+    border-radius: 4px 0 0 4px;
+
+}
+
+#add-btn {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-left: 0;
+    background-color: #28a745;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 0 4px 4px 0;
+}
+
+#add-btn:hover {
+    background-color: #218838;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    /* background-color: #f9f9f9; */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    gap: 14px;
+}
+
+li .action {
+    display: flex;
+    gap: 10px;
+}
+
+button.edit, button.delete {
+    background-color: #007bff;
+    color: #ccc;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+button.edit:hover {
+    background-color: #0056b3;
+
+}
+
+button.delete {
+    background-color: #dc3545;
+}
+
+button.delete:hover {
+    background-color: #c82333;
+}
+

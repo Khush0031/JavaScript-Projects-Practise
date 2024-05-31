@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>06-Password-Generator</title>
+    <link rel="stylesheet" href="index.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Password Generator</h1>
+      <div class="settings">
+
+        <div class="output">
+          <input type="text" name="" id="password-output" readonly />
+          <button id="copy-btn">Copy</button>
+        </div>
+
+        <label for="password-length">
+          Password Length: <span id="length-value"></span>
+          <input
+            type="range"
+            name="password-length"
+            id="password-length"
+            min="6"
+            max="50"
+            value="6"
+          />
+        </label>
+
+        <label for="include-lowercase">
+          <input type="checkbox" name="Lowercase" id="include-lowercase" checked />
+          Include Lowercase
+        </label>
+        <label for="include-uppercase">
+          <input type="checkbox" name="Uppercase" id="include-uppercase"  />
+          Include Uppercase
+        </label>
+        <label for="include-numbers">
+          <input type="checkbox" name="Numbers" id="include-numbers"  /> Include
+          Numbers
+        </label>
+        <label for="include-symbols">
+          <input type="checkbox" name="Symbols" id="include-symbols"  /> Include
+          Symbols
+        </label>
+
+
+        
+        <!-- <label for="password-length">
+          Password Length:
+          <input
+            type="number"
+            name="password-length"
+            id="password-length"
+            min="6"
+            max="50"
+            value="6"
+          />
+        </label> -->
+
+        
+      </div>
+      <button id="generate-btn">Generate Password</button>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>

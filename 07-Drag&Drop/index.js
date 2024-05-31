@@ -52,8 +52,6 @@ function drop(e) {
   e.currentTarget.appendChild(draggable);
 
   e.currentTarget.classList.remove('hovered')
-
-  sortList(dragList);
   sortList(dropList);
 }
 

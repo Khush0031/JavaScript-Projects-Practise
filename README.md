@@ -78,6 +78,7 @@ JavaScript-Projects-Practise
 | Project-04     | Tic-Tac-Toe          | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/04-TIC-TAC-TOE-GAME)            | 
 | Project-05     | Gradient Generator   | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/05-Gradient-Generator)          |  
 | Project-06     | Todo-App             | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/06-Todo-App)                    |
+| Project-07     | Drag&Drop             | [Click to open](https://khush0031.github.io/JavaScript-Projects-Practise/07-Drag&Drop)                    |
 
 ## Resources
 
